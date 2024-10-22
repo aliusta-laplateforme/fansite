@@ -1,0 +1,9 @@
+# Ignorer les fichiers images
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+
+# Ignorer un dossier spécifique
+images/
